@@ -1,4 +1,4 @@
-预览地址： [http://web.galanla.cn](http://web.galanla.cn)
+预览地址： [http://web.galan.cn](http://web.galanla.cn)
 <br/>
 <br/>
 
