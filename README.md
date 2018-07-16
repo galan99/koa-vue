@@ -8,6 +8,7 @@
 <br/>
 <br/>
 
+
 # 项目运行
 
 源码地址: [https://github.com/galan99/koa-vue](https://github.com/galan99/koa-vue)
@@ -50,3 +51,7 @@ node app.js
 
 <br/>
 <br/>
+
+# 演示
+
+[图片]（https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue1.png）
