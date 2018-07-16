@@ -30,7 +30,7 @@ npm run dev
 //打包
 npm run build
 
-``
+```
 
 <br/>
 <br/>
@@ -41,6 +41,7 @@ npm run build
 默认已本地安装mysql服务，如果没有安装mysql，请看[安装教程](http://www.runoob.com/mysql/mysql-install.html)
 
 ```code
+cd server
 # 进入sever目录
 
 # 安装依赖
@@ -50,3 +51,6 @@ npm install
 node app.js
 
 ```
+
+<br/>
+<br/>
