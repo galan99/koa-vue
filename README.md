@@ -54,4 +54,4 @@ node app.js
 
 # 演示
 
-[图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue1.png)
+![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue1.png)
