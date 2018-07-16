@@ -1,0 +1,24 @@
+{
+  "name": "vue-koa-server",
+  "version": "1.0.0",
+  "description": "koa服务端代码",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "mysql"
+  ],
+  "author": "galan99",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0"
+  }
+}
