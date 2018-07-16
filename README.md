@@ -1,7 +1,3 @@
-预览地址： [http://web.galan.cn](http://web.galanla.cn)
-<br/>
-<br/>
-
 # 技术栈
 
 <br/>
