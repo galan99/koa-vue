@@ -54,7 +54,7 @@ node app.js
 
 # 演示
 
-![图片](//wx2.sinaimg.cn/large/005zWjpngy1ftco429mzlj30qo0rmmx2.jpg)
+![图片](https://i.loli.net/2018/07/17/5b4d5bafd4faf.png)
 ![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue2.png)
 ![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue3.png)
 ![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue4.png)
