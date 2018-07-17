@@ -54,7 +54,7 @@ node app.js
 
 # 演示
 
-![图片](//galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue1.png)
-![图片](//galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue2.png)
-![图片](//galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue3.png)
-![图片](//galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue4.png)
+![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue1.png)
+![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue2.png)
+![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue3.png)
+![图片](https://galan-1252054526.cos.ap-guangzhou.myqcloud.com/github-koa-vue/koa-vue4.png)
