@@ -36,6 +36,9 @@ export default {
       }
     };
   },
+  mounted(){
+    document.querySelector('.login-wrap').style.height = document.documentElement.clientHeight + 'px';
+  },
   methods: {
     submitForm(formName) {
       this.$refs[formName].validate(async valid => {
@@ -56,6 +59,7 @@ export default {
       });
     }
   }
+
 };
 </script>
 
@@ -65,6 +69,7 @@ export default {
   width: 100%;
   height: 100%;
   background: #324157;
+  overflow: hidden;
   .ms-title {
     position: absolute;
     top: 50%;
