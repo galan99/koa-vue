@@ -14,6 +14,18 @@ const getUserById = async function(id){
 	return userInfo // 返回数据
 }
 
+//返回列表页数
+const pageList = async function(params) {
+	//pageSize 每页10条数据 page 页数
+	let {pageSize, page} = params;
+	const list = await List.findAndCountAll({
+			limit: pageSize*1,
+			offset: pageSize*(page - 1),
+	})
+	return list
+}
+
+
 //返回列表
 const getList = async function(){
 	const list = await List.findAll();
@@ -61,5 +73,6 @@ module.exports = {
   getList,
   removeList,
   addList,
-  updateList
+	updateList,
+	pageList
 }

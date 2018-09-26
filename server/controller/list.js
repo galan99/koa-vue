@@ -37,9 +37,25 @@ const updateList = async function(ctx){
 	}
 }
 
+//返回列表页数
+const pageList = async function(ctx) {
+	const data = ctx.query;//get 获取url里传过来的参数
+	const result = await list.pageList(data);
+	ctx.body = {
+	    code: 0,
+	    msg: 'success',
+	    data: {
+			list: result.rows,
+			count: result.count,
+			totalPage: Math.ceil(result.count/data.pageSize)
+		}
+	}
+}
+
 module.exports = {
   getList,
   removeList,
   addList,
-  updateList
+  updateList,
+  pageList
 }

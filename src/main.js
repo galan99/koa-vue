@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-import {Input, Button, Form, FormItem,Tabs,TabPane,Row,Col,Dialog,Message} from 'element-ui';
+import {Input, Button, Form, FormItem,Tabs,TabPane,Row,Col,Dialog,Message,Pagination} from 'element-ui';
 Vue.use(Input)
 Vue.use(Button)
 Vue.use(Form)
@@ -14,6 +14,7 @@ Vue.use(TabPane)
 Vue.use(Row)
 Vue.use(Col)
 Vue.use(Dialog)
+Vue.use(Pagination)
 Vue.prototype.$message = Message;
 
 Vue.config.productionTip = false

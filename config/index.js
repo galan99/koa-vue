@@ -4,7 +4,7 @@
 
 const path = require('path')
 
-var $url = 'http://192.168.116.85:3000'; //http://sb.gsd.gamdream.com,http://192.168.4.124:9990
+var $url = 'http://localhost:3000'; //http://sb.gsd.gamdream.com,http://192.168.4.124:9990
 
 module.exports = {
   dev: {
@@ -30,8 +30,8 @@ module.exports = {
     },
 
     // Various Dev Server settings
-    host: '192.168.116.85', // can be overwritten by process.env.HOST
-    port: 8080, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
+    host: 'localhost', // can be overwritten by process.env.HOST
+    port: 8889, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     autoOpenBrowser: true,
     errorOverlay: true,
     notifyOnErrors: true,
