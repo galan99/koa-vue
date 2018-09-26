@@ -228,7 +228,7 @@ export default {
 </style>
 <style lang="less" >
 .page {
-  padding: 20px 0;
+  padding: 20px 0 20px;
   text-align: right;
 }
 .my-list {
@@ -255,6 +255,7 @@ export default {
       }
     }
     .page {
+      padding-top: 5px;
       text-align: center;
     }
   }
@@ -287,6 +288,10 @@ export default {
     min-width: 300px;
   }
   .head-top {
+    width: 100%;
+    overflow: hidden;
+    margin-left: -12px !important;
+    margin-right: 0 !important;
     .el-col-20 {
       width: calc(100% - 78px);
     }
