@@ -1,7 +1,7 @@
 # 技术栈
 
 <br/>
-前端：vue2 + vue-route + rwebpack + ES6 + less + nginx
+前端：vue2 + vue-route + webpack + ES6 + less + nginx
 <br/>
 <br/>
 后端：koa2 + mysql
