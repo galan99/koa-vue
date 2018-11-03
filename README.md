@@ -1,4 +1,4 @@
-# 技术栈
+## 技术栈
 
 <br/>
 前端：vue2 + vue-route + webpack + ES6 + less + nginx
@@ -9,7 +9,7 @@
 <br/>
 
 
-# 项目运行
+## 项目运行
 
 源码地址: [https://github.com/galan99/koa-vue](https://github.com/galan99/koa-vue)
 <br/>
@@ -52,17 +52,17 @@ node app.js
 <br/>
 <br/>
 
-# 演示
+## 演示
 
-![图片](https://i.loli.net/2018/07/17/5b4d5bafd4faf.png)
-![图片](https://i.loli.net/2018/07/17/5b4d60432ff9d.png)
-![图片](https://i.loli.net/2018/07/17/5b4d604330f1a.png)
-![图片](https://i.loli.net/2018/07/17/5b4d60431bbce.png)
+<img src='https://i.loli.net/2018/07/17/5b4d5bafd4faf.png' width='50%'>
+<img src='https://i.loli.net/2018/07/17/5b4d60432ff9d.png' width='50%'>
+<img src='https://i.loli.net/2018/07/17/5b4d604330f1a.png' width='50%'>
+<img src='https://i.loli.net/2018/07/17/5b4d60431bbce.png' width='50%'>
 
-# 我的联系方式
+## 我的联系方式
 
 <div align=center>
-<img src='https://galan99.github.io/img/me/wx.png' width='200'>
+<img src='https://galan99.github.io/img/me/wx.png' width='300'>
 </div>
 <br>
 <div align=center>风里雨里我在这儿等你，欢迎勾搭！</div>
