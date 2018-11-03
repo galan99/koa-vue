@@ -54,10 +54,10 @@ node app.js
 
 ## 演示
 
-<img src='https://i.loli.net/2018/07/17/5b4d5bafd4faf.png' width='50%'>
-<img src='https://i.loli.net/2018/07/17/5b4d60432ff9d.png' width='50%'>
-<img src='https://i.loli.net/2018/07/17/5b4d604330f1a.png' width='50%'>
-<img src='https://i.loli.net/2018/07/17/5b4d60431bbce.png' width='50%'>
+<img src='https://i.loli.net/2018/07/17/5b4d5bafd4faf.png' width='90%'>
+<img src='https://i.loli.net/2018/07/17/5b4d60432ff9d.png' width='90%'>
+<img src='https://i.loli.net/2018/07/17/5b4d604330f1a.png' width='90%'>
+<img src='https://i.loli.net/2018/07/17/5b4d60431bbce.png' width='90%'>
 
 ## 我的联系方式
 
