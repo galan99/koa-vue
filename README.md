@@ -61,7 +61,9 @@ node app.js
 
 # 我的联系方式
 
-![图片](https://galan99.github.io/img/me/wx.png)
-
-<center>风里雨里我在这儿等你，欢迎勾搭！</center>
+<div align=center>
+<img src='https://galan99.github.io/img/me/wx.png' width='200'>
+</div>
+<br>
+<div align=center>风里雨里我在这儿等你，欢迎勾搭！</div>
 
