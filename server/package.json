@@ -20,5 +20,9 @@
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
     "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "request": "^2.88.0",
+    "source-map": "^0.7.3"
   }
 }

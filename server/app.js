@@ -6,8 +6,9 @@ const appKoa = new require('koa')
 
 app = new appKoa();
 
+
 // 静态文件serve在koa-router的其他规则之上 
-app.use(serve(path.resolve('../dist'))); // 将webpack打包好的项目目录作为Koa静态文件服务的目录
+app.use(serve(path.resolve('dist'))); // 将webpack打包好的项目目录作为Koa静态文件服务的目录
 
 app.use(require('koa-bodyparser')());
 
